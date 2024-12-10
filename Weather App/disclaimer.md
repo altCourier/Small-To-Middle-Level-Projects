@@ -1,5 +1,5 @@
 ## Disclaimer:
-The content shown in this project is inspired by the following video:  
+The content was taken from this amazing video:
 [Watch the video](https://youtu.be/NCCYWIzN6hU)
 
 ---
