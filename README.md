@@ -1,4 +1,2 @@
 # Small-To-Middle-Level-Projects
-Little to no creativity: 
-just projects to practice better, learn better and ultimately;
-escape from tutorial hell.
+My projects / follow-ups in order to get out of the tutorial hell.
